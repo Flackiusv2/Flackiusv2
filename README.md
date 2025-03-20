@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-[![Flackius's GitHub stats](https:/github-readme-stats-git-master-felipes-projects-e1811e04.vercel.app/api?username=Flackiusv2)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
